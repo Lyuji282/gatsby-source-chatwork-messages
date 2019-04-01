@@ -7,11 +7,11 @@ Source plugin for pulling data into Gatsby from [chatwork.com](https://go.chatwo
 
 ## Install
 
-`npm install --save gatsby-source-chatwork-messges`
+`npm install --save gatsby-source-chatwork-messages`
 
 or
 
-`yarn add gatsby-source-chatwork-messges`
+`yarn add gatsby-source-chatwork-messages`
 
 
 ## How to use
